@@ -11,11 +11,11 @@ Desde el 1 de mayo:
 
 ### Casos desde el 1 de mayo en una escala logarítmica
 
-![Casos desde el 1 de mayo en una escala logarítmica](municipios.png)
+![Casos desde el 1 de mayo en una escala logarítmica](plots/municipios.png)
 
 ### Tiempo que toma un municipio en duplicar el número de casos en los últimos 14 días
 
-![Tiempo que toma un municipio en duplicar el número de casos](doubling.png)
+![Tiempo que toma un municipio en duplicar el número de casos](plots/doubling.png)
 
 ---
 
