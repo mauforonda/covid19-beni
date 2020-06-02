@@ -28,3 +28,7 @@ Desde el 1 de mayo:
 
 ![san borja](plots/san_borja.png)
 
+![exaltación](plots/exaltacion.png)
+
+![san joaquín](plots/san_joaquin.png)
+
