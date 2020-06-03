@@ -32,3 +32,5 @@ Desde el 1 de mayo:
 
 ![san joaquín](plots/san_joaquin.png)
 
+![loreto](plots/loreto.png)
+
