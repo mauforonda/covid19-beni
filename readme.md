@@ -30,6 +30,8 @@ Desde el 1 de mayo:
 
 ![exaltación](plots/exaltacion.png)
 
+![santa rosa](plots/santa_rosa.png)
+
 ![san joaquín](plots/san_joaquin.png)
 
 ![loreto](plots/loreto.png)
